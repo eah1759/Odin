@@ -1,4 +1,4 @@
-The Odin Project - Foundations: Project: Recipes
+# The Odin Project - Foundations: Project: Recipes
 
 This is the first project in The Odin Project.
 The intent of this project is to review and practice basic HTML formatting, as well as getting more familiar with Git and Github.
@@ -11,3 +11,5 @@ The project tasks:
 Additional tasks:
 - Commit to git every time a significant change has been made
 - Update this README to be more fleshed out. c:
+
+The full project description can be found [here](https://www.theodinproject.com/lessons/foundations-recipes).
